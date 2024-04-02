@@ -1,8 +1,8 @@
 [logstash_server]
-192.168.56.116 ansible_user=berja
+192.168.56.116 
 
 [elasticsearch_server]
-192.168.56.111 ansible_user=berja
+192.168.56.111 
 
 [kibana_server]
-192.168.56.111 ansible_user=berja
+192.168.56.111 
