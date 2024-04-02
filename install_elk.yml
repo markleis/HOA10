@@ -26,4 +26,4 @@
   tags: logstash
   become: true
   roles:
-    - { role: logstash, gpg_key_logstash: https://artifacts.elastic.co/GPG-KEY-elasticsearch }
+    - { role: logstash, gpg_key_logstash: https://artifacts.elastic.co/GPG-KEY-elasticsearch }  
